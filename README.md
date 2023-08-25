@@ -1,1 +1,1 @@
-In this Project I Clean raw hosuing data from https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data. In this project I use skills involving Normalizing data, populating blank fields, splitting comlums into more usable data, and removing duplicate data.
+In this Project I Clean raw hosuing data from https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data, using skills involving Normalizing data, populating blank fields, splitting comlums into more usable data, and removing duplicate data.
